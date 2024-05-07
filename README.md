@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=https://github.com/DavidVF7/Conversor-de-Monedas/assets/103916971/645bfae6-38cf-4f90-add7-8f9b3929cb5a"
+</p>
+
 # Conversor de Monedas 💱
 
 Desarrollado como parte del Challenge Conversor de Monedas, impuesto por Alura Latam en colaboración con Oracle en el programa ONE, como parte de la especialización Back-End.
